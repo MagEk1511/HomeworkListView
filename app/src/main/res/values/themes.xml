@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.HomeworkListView" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.HomeworkListView.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.HomeworkListView.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.HomeworkListView.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
